@@ -5,5 +5,4 @@
   "framework": "nextjs",
   "npm install --legacy-peer-deps",
   "devCommand": "npm run dev"
- 
 }
